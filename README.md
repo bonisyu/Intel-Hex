@@ -1,10 +1,12 @@
 # Intel-Hex example
 
-### Foreword
+## Foreword
 
 **Reference:** https://en.wikipedia.org/wiki/Intel_HEX
+
 **Test file:** /Intel-HEX/test_file/
 
-### Python
+## Python
 `cd /Intel-HEX/python/`
+
 `py intel_hex.py`
